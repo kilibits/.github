@@ -1,2 +1,0 @@
-# kilibits
-Welcome to kilibits
