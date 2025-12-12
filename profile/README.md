@@ -22,3 +22,6 @@ The goal is to inspire creators to *rethink and reimagine* and shape what soluti
 
 ### Mkoba
 *Reimagining the "kikoba" experience free from network providers!*
+
+### Pango
+*Barebones rental and property management application - includes document signing, payments, maintenance tracking etc*
